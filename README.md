@@ -1,0 +1,1 @@
+Hi, I’m @g-hardwick, I attend Colorado College as a second year Math and CS major. I'm currently elarning more about specific topics in both math and computer science, like going further in depth of machine learning and analysis. 
