@@ -1,1 +1,1 @@
-Hi, I’m @g-hardwick, I attend Colorado College as a third year Math and CS major, graduating spring 2024. Right now I'm trying to get more practice working in giant codebases instead of just school projects, getting more experience using AWS and other cloud tech, and going more in depth for some subjects in school like machine learning and real analysis.
+Hi, I’m @g-hardwick.
